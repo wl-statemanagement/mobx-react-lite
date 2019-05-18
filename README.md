@@ -16,7 +16,7 @@ Project is written in TypeScript and provides type safety out of the box. No Flo
 
 ## 💥Documentation moved! 💥
 
-There is a new site dedicated to using [MobX in React](https://mobx-react.netlify.com) world. You will find there detailed information about this package along with various recipes. More will be added over time. Feel free to contribute as well.
+There is a new site dedicated to using [MobX in React](https://mobx-react.js.org/) world. You will find there detailed information about this package along with various recipes. More will be added over time. Feel free to contribute as well.
 
 ---
 
